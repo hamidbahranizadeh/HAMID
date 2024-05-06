@@ -1,4 +1,3 @@
 warp://188.114.99.129:2506/?ifp=5-10#HAMIDBAHRANI
 warp://162.159.195.139:939/?ifp=5-10#IHAMIDBAHRANI
 warp://162.159.192.170:891/?ifp=5-10#HAMIDBAHRANI
-vless://caa6b561-21c6-4832-9f4a-56eb91adf781@www.gco.gov.qa:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ghasedakmhghost1.pages.dev&fp=randomized&type=ws&sni=ghasedakmhghost1.pages.dev#ghasedak
